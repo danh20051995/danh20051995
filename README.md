@@ -19,4 +19,4 @@
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=brightgreen)](https://www.hackerrank.com/certificates/dad8772cd56c)
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=brightgreen)](http://www.linkedin.com/in/thanh-danh-le)
