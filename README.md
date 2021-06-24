@@ -8,10 +8,14 @@
 
 ## Certificates
 
+[![CSS Certificate](https://img.shields.io/static/v1?label=hackerrank&message=Cascading%20Style%20Sheets&color=brightgreen&style=for-the-badge)](https://www.hackerrank.com/certificates/f55418f13543)
+[![React (Basic) Certificate](https://img.shields.io/static/v1?label=hackerrank&message=React%20(Basic)%20Certificate&color=brightgreen&style=for-the-badge)](https://www.hackerrank.com/certificates/969e30e2b081)
 [![Node (Basic) Certificate](https://img.shields.io/static/v1?label=hackerrank&message=Node%20(Basic)%20Certificate&color=brightgreen&style=for-the-badge)](https://www.hackerrank.com/certificates/557d58b6b6ff)
+[![Node (Intermediate) Certificate](https://img.shields.io/static/v1?label=hackerrank&message=Node%20(Intermediate)%20Certificate&color=brightgreen&style=for-the-badge)](https://www.hackerrank.com/certificates/46f8ce95f3ce)
 [![JavaScript (Basic) Certificate](https://img.shields.io/static/v1?label=hackerrank&message=JavaScript%20(Basic)%20Certificate&color=brightgreen&style=for-the-badge)](https://www.hackerrank.com/certificates/c049e970b7bc)
+[![JavaScript (Intermediate) Certificate](https://img.shields.io/static/v1?label=hackerrank&message=JavaScript%20(Intermediate)%20Certificate&color=brightgreen&style=for-the-badge)](https://www.hackerrank.com/certificates/3e71f815bb67)
 [![Rest API (Intermediate) Certificate](https://img.shields.io/static/v1?label=hackerrank&message=Rest%20API%20(Intermediate)%20Certificate&color=brightgreen&style=for-the-badge)](https://www.hackerrank.com/certificates/e09b5c91fea2)
-[![Rest API (Intermediate) Certificate](https://img.shields.io/static/v1?label=hackerrank&message=Problem%20Solving%20(Basic)%20Certificate&color=brightgreen&style=for-the-badge)](https://www.hackerrank.com/certificates/dad8772cd56c)
+[![Problem Solving (Basic) Certificate](https://img.shields.io/static/v1?label=hackerrank&message=Problem%20Solving%20(Basic)%20Certificate&color=brightgreen&style=for-the-badge)](https://www.hackerrank.com/certificates/dad8772cd56c)
 
 ## Packages
 
