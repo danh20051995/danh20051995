@@ -1,4 +1,4 @@
-# I'm a sofware engineer
+# I'm a software engineer
 
 <!-- ## Stats
 
